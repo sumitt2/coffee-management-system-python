@@ -1,0 +1,8 @@
+
+--- FINAL BILL ---
+Latte x 2 = ₹140
+Espresso x 3 = ₹150
+Subtotal : ₹290
+Discount (1.0%) : -₹2.90
+GST (5%) : ₹14.50
+Total Payable : ₹301.60
